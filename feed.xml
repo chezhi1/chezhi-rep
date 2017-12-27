@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:CDE2D315-B660-4283-98E2-EC9F46AA3A8D</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-10-30T22:59:53+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E5D9BEAF-2328-45EB-A7D6-7DA098BCA19A</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">E5D9BEAF-2328-45EB-A7D6-7DA098BCA19A</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2012-10-30T22:59:53.001+03:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B027840A-75EA-4F9E-87F8-496BB7377D56</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">B027840A-75EA-4F9E-87F8-496BB7377D56</in-navbar>
+  <link rel="alternate" href="About/About.html"/>
+  <updated>2006-03-07T21:57:07+03:00</updated>
+  <content>About</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3A599426-9DC5-4D0C-857E-35DBE73F74FF</id>
+  <title>Albums</title>
+  <title xmlns="urn:iweb:">Albums</title>
+  <in-navbar xmlns="urn:iweb:">3A599426-9DC5-4D0C-857E-35DBE73F74FF</in-navbar>
+  <link rel="alternate" href="Albums/Albums.html"/>
+  <updated>2012-10-30T22:59:53.002+03:00</updated>
+  <content>Albums</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D809EE16-4F11-4BE1-B1D3-3B40EE515804</id>
+  <title>Contact Us</title>
+  <title xmlns="urn:iweb:">Contact Us</title>
+  <in-navbar xmlns="urn:iweb:">D809EE16-4F11-4BE1-B1D3-3B40EE515804</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2012-10-30T22:59:53.003+03:00</updated>
+  <content>Contact Us</content>
+ </entry>
+</feed>
